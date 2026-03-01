@@ -1,0 +1,7 @@
+# .gitattributes
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+*.html linguist-documentation
+*.jinja linguist-documentation
+*.pt linguist-vendored
+*.csv linguist-vendored
