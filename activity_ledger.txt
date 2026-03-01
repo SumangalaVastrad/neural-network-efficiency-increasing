@@ -1,1 +1,2 @@
 [2026-03-01 16:27:56 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-03-01 17:42:10 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
