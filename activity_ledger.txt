@@ -1,2 +1,3 @@
 [2026-03-01 16:27:56 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-03-01 17:42:10 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
+[2026-03-02 10:55:44 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
