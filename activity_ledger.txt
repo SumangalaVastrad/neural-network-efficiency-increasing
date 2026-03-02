@@ -2,3 +2,4 @@
 [2026-03-01 17:42:10 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-03-02 10:55:44 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-03-02 14:55:35 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
+[2026-03-02 15:25:21 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
