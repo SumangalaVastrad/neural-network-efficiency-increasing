@@ -6,3 +6,4 @@
 [2026-03-02 19:41:46 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-03-02 20:57:49 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-03-03 10:07:49 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
+[2026-03-03 12:41:46 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
