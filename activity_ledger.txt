@@ -8,3 +8,4 @@
 [2026-03-03 10:07:49 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-03-03 12:41:46 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-03-03 15:56:07 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
+[2026-03-03 20:29:11 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
