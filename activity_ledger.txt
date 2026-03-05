@@ -13,3 +13,4 @@
 [2026-03-04 14:27:37 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-03-04 15:44:51 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
 [2026-03-04 22:12:11 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
+[2026-03-05 11:41:17 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
