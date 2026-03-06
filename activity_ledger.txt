@@ -17,3 +17,4 @@
 [2026-03-05 12:30:17 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-03-05 16:43:01 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-03-05 18:58:52 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
+[2026-03-06 13:45:17 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
