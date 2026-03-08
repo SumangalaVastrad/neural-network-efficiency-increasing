@@ -28,3 +28,4 @@
 [2026-03-07 22:48:32 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-03-08 12:17:44 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-03-08 18:49:47 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
+[2026-03-08 19:50:43 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
