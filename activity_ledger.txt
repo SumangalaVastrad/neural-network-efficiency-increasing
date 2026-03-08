@@ -26,3 +26,4 @@
 [2026-03-07 15:50:48 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-03-07 19:04:39 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-03-07 22:48:32 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-03-08 12:17:44 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
