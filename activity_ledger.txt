@@ -38,3 +38,4 @@
 [2026-03-10 13:48:56 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
 [2026-03-10 16:22:52 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-03-10 22:08:30 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-03-11 10:51:26 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
