@@ -44,3 +44,4 @@
 [2026-03-11 17:30:24 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-03-11 19:44:48 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
 [2026-03-12 09:57:36 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
+[2026-03-12 16:21:40 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
