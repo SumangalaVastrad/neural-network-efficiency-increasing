@@ -54,3 +54,4 @@
 [2026-03-14 15:54:32 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-03-14 17:40:27 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-03-14 18:18:03 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
+[2026-03-14 21:45:24 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
