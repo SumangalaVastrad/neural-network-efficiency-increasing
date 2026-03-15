@@ -56,3 +56,4 @@
 [2026-03-14 18:18:03 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
 [2026-03-14 21:45:24 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-03-15 09:26:18 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
+[2026-03-15 14:13:08 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
