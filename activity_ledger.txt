@@ -60,3 +60,4 @@
 [2026-03-15 17:55:53 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-03-15 19:30:06 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
 [2026-03-16 11:05:54 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-03-16 12:49:36 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
