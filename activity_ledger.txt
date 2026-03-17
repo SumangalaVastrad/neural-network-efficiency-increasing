@@ -65,3 +65,4 @@
 [2026-03-16 22:14:53 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-03-17 11:35:17 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-03-17 13:52:12 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
+[2026-03-17 21:08:43 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
