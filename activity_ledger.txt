@@ -80,3 +80,4 @@
 [2026-03-21 14:19:30 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-03-21 15:33:39 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-03-21 17:28:07 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
+[2026-03-21 18:51:45 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
