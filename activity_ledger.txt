@@ -83,3 +83,4 @@
 [2026-03-21 18:51:45 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-03-21 20:08:55 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
 [2026-03-22 14:26:27 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
+[2026-03-22 15:47:07 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
