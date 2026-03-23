@@ -89,3 +89,4 @@
 [2026-03-23 16:48:48 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-03-23 19:24:52 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-03-23 20:09:36 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
+[2026-03-23 21:04:38 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
