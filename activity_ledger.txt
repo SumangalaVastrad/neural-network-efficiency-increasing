@@ -108,3 +108,4 @@
 [2026-03-27 16:37:39 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-03-27 21:06:57 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-03-28 15:39:29 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
+[2026-03-28 16:27:18 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
