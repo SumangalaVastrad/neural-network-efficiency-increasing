@@ -115,3 +115,4 @@
 [2026-03-29 12:01:14 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
 [2026-03-29 13:20:14 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-03-29 15:50:09 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
+[2026-03-29 19:49:17 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
