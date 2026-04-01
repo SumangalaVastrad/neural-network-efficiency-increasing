@@ -128,3 +128,4 @@
 [2026-04-01 12:50:11 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
 [2026-04-01 14:05:33 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-04-01 20:41:08 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
+[2026-04-01 21:34:33 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
