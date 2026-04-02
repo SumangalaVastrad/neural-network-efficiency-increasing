@@ -132,3 +132,4 @@
 [2026-04-02 10:17:13 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-04-02 11:12:39 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-04-02 12:10:49 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
+[2026-04-02 21:49:42 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
