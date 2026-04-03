@@ -137,3 +137,4 @@
 [2026-04-03 14:56:41 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-03 18:21:10 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-04-03 19:29:05 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
+[2026-04-03 21:31:29 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
