@@ -139,3 +139,4 @@
 [2026-04-03 19:29:05 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
 [2026-04-03 21:31:29 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
 [2026-04-03 22:41:20 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
+[2026-04-04 09:05:42 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
