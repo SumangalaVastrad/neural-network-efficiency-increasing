@@ -142,3 +142,4 @@
 [2026-04-04 09:05:42 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-04-04 13:56:55 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
 [2026-04-04 14:06:40 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
+[2026-04-05 09:21:39 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
