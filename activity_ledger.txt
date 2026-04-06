@@ -150,3 +150,4 @@
 [2026-04-06 16:11:24 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
 [2026-04-06 17:24:19 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-04-06 18:25:27 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
+[2026-04-06 20:50:22 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
