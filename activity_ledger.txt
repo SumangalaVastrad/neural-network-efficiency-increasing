@@ -157,3 +157,4 @@
 [2026-04-07 20:06:38 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-04-07 22:43:10 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-04-08 10:20:36 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-04-08 18:25:42 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
