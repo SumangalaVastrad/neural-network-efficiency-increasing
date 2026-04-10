@@ -164,3 +164,4 @@
 [2026-04-09 17:20:12 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
 [2026-04-09 19:14:22 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-04-09 22:50:32 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-04-10 09:43:22 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
