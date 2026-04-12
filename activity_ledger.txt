@@ -172,3 +172,4 @@
 [2026-04-11 14:47:16 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-04-11 15:29:40 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-04-11 19:19:49 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
+[2026-04-12 12:24:44 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
