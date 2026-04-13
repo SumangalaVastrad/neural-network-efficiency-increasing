@@ -176,3 +176,4 @@
 [2026-04-12 16:37:29 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-04-12 21:30:50 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-04-12 22:19:50 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-04-13 09:56:24 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
