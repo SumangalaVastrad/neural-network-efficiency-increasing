@@ -177,3 +177,4 @@
 [2026-04-12 21:30:50 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-04-12 22:19:50 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-13 09:56:24 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
+[2026-04-13 11:36:07 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
