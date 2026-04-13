@@ -178,3 +178,4 @@
 [2026-04-12 22:19:50 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-13 09:56:24 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
 [2026-04-13 11:36:07 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
+[2026-04-13 13:46:55 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
