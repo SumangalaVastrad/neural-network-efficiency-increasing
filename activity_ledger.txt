@@ -183,3 +183,4 @@
 [2026-04-13 19:08:19 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-14 12:02:27 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-04-14 14:04:26 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
+[2026-04-14 16:33:24 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
