@@ -189,3 +189,4 @@
 [2026-04-15 20:09:03 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-04-16 16:29:40 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-04-16 20:01:58 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-04-16 21:06:02 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
