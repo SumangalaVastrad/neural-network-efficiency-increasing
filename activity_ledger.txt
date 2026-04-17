@@ -194,3 +194,4 @@
 [2026-04-17 13:08:04 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-17 15:16:27 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-04-17 17:41:51 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
+[2026-04-17 18:40:30 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
