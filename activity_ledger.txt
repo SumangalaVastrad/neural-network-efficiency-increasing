@@ -201,3 +201,4 @@
 [2026-04-18 15:12:43 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-04-18 20:43:06 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-19 09:41:25 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
+[2026-04-19 15:24:17 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
