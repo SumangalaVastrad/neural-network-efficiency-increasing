@@ -209,3 +209,4 @@
 [2026-04-20 14:42:12 +0530] perf(inference): optimize pruned tensor representation using PyTorch sparse matrix formats
 [2026-04-20 17:54:50 +0530] feat(distillation): implement soft target cross-entropy loss for teacher-student model transfer
 [2026-04-21 10:46:50 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
+[2026-04-21 11:30:03 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
