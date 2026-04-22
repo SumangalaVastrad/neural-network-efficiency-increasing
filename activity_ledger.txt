@@ -213,3 +213,4 @@
 [2026-04-21 21:19:13 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
 [2026-04-22 15:17:03 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-22 16:49:42 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-04-22 17:13:19 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
