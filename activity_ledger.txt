@@ -223,3 +223,4 @@
 [2026-04-24 15:21:07 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
 [2026-04-24 18:06:21 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-04-25 11:29:03 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
+[2026-04-25 14:47:56 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
