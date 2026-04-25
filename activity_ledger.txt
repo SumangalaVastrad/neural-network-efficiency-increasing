@@ -225,3 +225,4 @@
 [2026-04-25 11:29:03 +0530] fix(quantization): prevent dynamic range clipping overflow during matrix multiplication
 [2026-04-25 14:47:56 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-25 16:23:40 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
+[2026-04-25 20:28:18 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
