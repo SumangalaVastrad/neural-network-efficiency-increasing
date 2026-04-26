@@ -229,3 +229,4 @@
 [2026-04-26 14:11:02 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
 [2026-04-26 17:10:55 +0530] feat(pruning): implement Granger causality metric on hidden layer neuron activation series
 [2026-04-26 19:39:44 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
+[2026-04-26 20:51:29 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
