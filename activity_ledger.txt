@@ -232,3 +232,4 @@
 [2026-04-26 20:51:29 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
 [2026-04-27 09:44:29 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
 [2026-04-27 11:24:24 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
+[2026-04-27 18:29:49 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
