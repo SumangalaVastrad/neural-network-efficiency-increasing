@@ -231,3 +231,4 @@
 [2026-04-26 19:39:44 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-26 20:51:29 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
 [2026-04-27 09:44:29 +0530] feat(quantization): configure Post-Training Quantization (PTQ) to INT8 and FP16 weights
+[2026-04-27 11:24:24 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
