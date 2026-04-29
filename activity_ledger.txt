@@ -240,3 +240,4 @@
 [2026-04-29 10:09:55 +0530] docs(report): compile pruning ratio vs classification accuracy tradeoff analysis
 [2026-04-29 12:05:29 +0530] style(eval): plot sparsity curves and layer-wise compression ratios across training epochs
 [2026-04-29 13:12:58 +0530] refactor(sparsity): build structured channel pruning masks for convolutional feedforward passes
+[2026-04-29 16:46:29 +0530] test(benchmark): benchmark FLOPs reduction and latency throughput on MNIST and Sonar datasets
