@@ -1,0 +1,11 @@
+# .gitattributes – force GitHub Linguist to treat this project as Python
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+
+# Treat HTML/Jinja templates as documentation, not code
+*.html linguist-documentation
+*.jinja linguist-documentation
+
+# Exclude large data / model files from language stats
+*.pt linguist-vendored
+*.csv linguist-vendored
